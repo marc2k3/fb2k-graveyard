@@ -9,7 +9,7 @@ changed breaking older versions of the component. They can still be buggy and th
 will not be fixed by me.
 
 ## Other components
-While no longer maintained, you can still view full documentation for them here:
+While no longer maintained, downloads are available here and you can still view full documentation here:
 
 https://marc2k3.github.io/component/playcount-2003-legacy/
 
