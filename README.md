@@ -1,10 +1,15 @@
-Spider Monkey Panel 64bit is still maintained here.
+## foo_spider_monkey_panel
+This repository hosts my last update of the 32bit version
 
-https://github.com/marc2k3/spider-monkey-panel-x64
+The 64bit version is still maintained [here](https://github.com/marc2k3/spider-monkey-panel-x64).
 
-The copy hosted here is my last 32bit version.
+## foo_mpv
+These builds are for compatibility with `foobar2000` `2.25` and later where relatve path handling was
+changed breaking older versions of the component. They can still be buggy and these bugs
+will not be fixed by me.
 
-The other components are no longer supported but have full documentation on these pages:
+## Other components
+While no longer maintained, you can still view full documentation for them here:
 
 https://marc2k3.github.io/component/playcount-2003-legacy/
 
