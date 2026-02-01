@@ -15,7 +15,7 @@ will not be fixed by me.
 Adds a `Sort playliosts by name` command to the main `File` menu.
 
 ## Other components
-While no longer maintained, downloads are available here and you can still view full documentation here:
+While no longer maintained, downloads are available here and documentation remains online:
 
 https://marc2k3.github.io/component/playcount-2003-legacy/
 
