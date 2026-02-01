@@ -12,7 +12,7 @@ changed breaking older versions of the component. They can still be buggy and th
 will not be fixed by me.
 
 ## foo_sort_playlists_by_name
-Adds a `Sort playliosts by name` command to the main `File` menu.
+Adds a `Sort playlists by name` command to the main `File` menu.
 
 ## Other components
 While no longer maintained, downloads are available here and documentation remains online:
